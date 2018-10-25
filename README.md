@@ -10,4 +10,5 @@ check.packages(pkg)
 ## List of R packages
 packages <- c("maps", "raster", "dismo", "maptools", "rgdal", "rgeos", "readr", "rworldmap")
 ## Execute function to load packages in R environment (and install if not installed)
-check.packages(packages)
+`check.packages(packages)`
+
