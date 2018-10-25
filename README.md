@@ -14,6 +14,7 @@ check.packages(pkg)
 
 # Install
 To install this function in your R environment you need to install and require *devtools* as follows:
+
 `install.packages("devtools")`
 `require(devtools`
 
