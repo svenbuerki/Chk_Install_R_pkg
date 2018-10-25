@@ -2,7 +2,7 @@ Package: R_packages
 Title: A Package To Check Install and Load R Packages 
 Version: 1.2
 Authors@R: person("Sven", "Buerki", email = "svenbuerki@boisestate.edu", role = c("aut", "cre"))
-Description: This package only includes one function allowing the user to check, install & load R packages requiered for a code to run. 
+Description: This package includes one function allowing users to check, install and load R packages. 
 Depends: R (>= 3.4.1)
 License: GNU AGPLv3
 Encoding: UTF-8
