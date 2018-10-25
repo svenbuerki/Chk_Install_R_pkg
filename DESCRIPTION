@@ -1,4 +1,4 @@
-Package: R_packages
+Package: Chk_Install_R_pkg
 Title: A Package To Check Install and Load R Packages 
 Version: 1.2
 Authors@R: person("Sven", "Buerki", email = "svenbuerki@boisestate.edu", role = c("aut", "cre"))
