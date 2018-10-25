@@ -12,7 +12,7 @@ check.packages(pkg)
 # Execute function to load packages in R environment (and install if not installed)
 `check.packages(packages)`
 
-#Install
+# Install
 To install this function in your R environment you need to install verb|devtools| as follows:
 `install.packages("devtools")`
 
