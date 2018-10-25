@@ -23,7 +23,7 @@ And then execute the following command in RStudio:
 
 `devtools::install_github("svenbuerki/Chk_Install_R_pkg")`
 
-This will install a new package entitled "R_package" and make associated functions available to you (pending loading the package using `require(Chk_Install_R_pkg)`.
+This will install a new package entitled "Chk_Install_R_pkg" and make associated functions available to you (pending loading the package using `require(Chk_Install_R_pkg)`.
 
 
 
