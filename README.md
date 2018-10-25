@@ -18,6 +18,7 @@ To install this function in your R environment you need to install and require *
 `require(devtools`
 
 And then execute the following command in RStudio:
+
 `devtools::install_github("svenbuerki/R_package")`
 
 This will install a new package entitled "R_package" and make associated functions available to you (pending loading the package using `require(R_package)`.
