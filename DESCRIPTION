@@ -1,0 +1,9 @@
+Package: GBIF
+Title: A Package For Handling GBIF Occurrence Data 
+Version: 1.2
+Authors@R: person("Sven", "Buerki", email = "svenbuerki@boisestate.edu", role = c("aut", "cre"))
+Description: This package tests the assumptions of stats tests and then runs them if the assumptions are met.
+Depends: R (>= 3.5.0)
+License: GNU AGPLv3
+Encoding: UTF-8
+LazyData: false
