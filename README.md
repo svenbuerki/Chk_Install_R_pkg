@@ -4,5 +4,6 @@
 check.packages(pkg)
 
 # Example
-packages <- c("maps", "raster", "dismo", "maptools", "rgdal", "rgeos", "readr", "rworldmap"). 
+packages <- c("maps", "raster", "dismo", "maptools", "rgdal", "rgeos", "readr", "rworldmap")
+
 check.packages(packages)
